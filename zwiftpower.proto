@@ -1,0 +1,281 @@
+syntax = "proto3";
+
+option go_package = "github.com/jonahgeorge/zwiftpower-go;zwiftpower";
+import "google/protobuf/any.proto";
+import "google/protobuf/struct.proto";
+
+message GetEventSprintsRequest {
+  // ID of the event
+  int32 zid = 1;
+}
+
+message GetEventSprintsResponse {
+  repeated EventSprints data = 1;
+}
+
+message EventSprints {
+  string DT_RowId = 1;
+  string ftp = 2;
+  string pt = 3;
+  string label = 4;
+  string zid = 5;
+  string pos = 6;
+  string position_in_cat = 7;
+  string name = 8;
+  string zwid = 9;
+  string res_id = 10;
+  int32 male = 11;
+  string tid = 12;
+  string topen = 13;
+  string tname = 14;
+  string tc = 15;
+  string tbc = 16;
+  string tbd = 17;
+  string category = 18;
+  google.protobuf.Any height = 19;
+  string flag = 20;
+  string hrm = 21;
+  string weight = 22;
+  string power_type = 23;
+  string display_pos = 24;
+  string age = 25;
+  int32 zada = 26;
+  string note = 27;
+  int32 is_guess = 28;
+  int32 penalty = 29;
+  int32 reg = 30;
+  string fl = 31;
+  string s36 = 32;
+  google.protobuf.Any msec = 33;
+  google.protobuf.Any watts = 34;
+  google.protobuf.Any wkg = 35;
+}
+
+message EventComment {
+  string name = 1;
+  int32 friend = 2;
+  string ftp = 3;
+  int32 zwid = 4;
+  string s = 5;
+  string pt = 6;
+  string tid = 7;
+  string topen = 8;
+  string tname = 9;
+  // Team color
+  string tc = 10;
+  // Team background color
+  string tbc = 11;
+  // Team border color
+  string tbd = 12;
+  string flag = 13;
+  string w = 14;
+  int32 age = 15;
+  // Height in centimeters
+  int32 height = 16;
+  string gender = 17;
+  int32 zada = 18;
+  string events = 19;
+  int32 div = 20;
+  int32 divw = 21;
+  string rank = 22;
+  int32 skill = 23;
+  int32 skill_race = 24;
+  int32 skill_seg = 25;
+  int32 skill_power = 26;
+  int32 skill_pos = 27;
+  int32 reg = 28;
+  string eff = 29;
+  string fl = 30;
+  int32 id = 31;
+  // HTML comment
+  string comment = 32;
+  string pid = 33;
+  string fid = 34;
+  string tm = 35;
+}
+
+message RaceHistoryFuture {
+  string DT_RowId = 1;
+  int32 friends = 2;
+  int32 tent = 3;
+  google.protobuf.Any f_list = 4;
+  google.protobuf.Any tent_list = 5;
+  int32 km = 6;
+  int32 tm = 7;
+  string r = 8;
+  string t = 9;
+  string zid = 10;
+  string rid = 11;
+  string spi = 12;
+  string spl = 13;
+  int32 f = 14;
+  int32 zcl = 15;
+  string rt = 16;
+  string layout = 17;
+  string layout_w = 18;
+  int32 rk = 19;
+  string laps = 20;
+  string cats = 21;
+  string signups = 22;
+  int32 stag = 23;
+  string w = 24;
+  string dur = 25;
+  int32 dir = 26;
+  string f_t = 27;
+  string f_km = 28;
+  string f_time = 29;
+  string f_day = 30;
+  string f_w = 31;
+  string f_ru = 32;
+  string f_r = 33;
+  string rtype = 34;
+  int32 eid = 35;
+  string rules = 36;
+  string crules = 37;
+  int32 cul = 38;
+  string fin = 39;
+  int32 ctype = 40;
+  string tags = 41;
+  string recur = 42;
+  int32 lbl = 43;
+}
+
+message ListTeamsRequest {}
+message ListTeamsResponse {
+  repeated Team teams = 1 [json_name = "data"];
+}
+
+message Team {
+  // Team name
+  string tln = 1;
+  string tag = 2;
+  string team_id = 3;
+  // Number of riders on the team
+  string riders = 4;
+  string races = 5;
+  // Primary color in hex
+  string color = 6;
+  // Contact link
+  string contact = 7;
+  // Team owner's name
+  string name = 8;
+	// An int32 when set, otherwise an empty string
+  google.protobuf.Value aid = 9;
+  string tid = 10;
+  string tname = 11;
+  string tc = 12;
+  string tbc = 13;
+  string tbd = 14;
+  string flag = 15;
+  int32 primary = 16;
+}
+
+message ListLeaguesRequest {}
+message ListLeaguesResponse {
+  repeated League leagues = 1 [json_name = "data"];
+}
+
+message League {
+  string name = 1 [json_name = "league_name"];
+  string id = 2 [json_name = "league_id"];
+  int32 active = 3;
+  string info = 4;
+  string contact = 5;
+  string start = 6;
+  string cats = 7;
+  string cats_names = 8;
+  string end = 9;
+  string lidc = 10;
+  string lidbd = 11;
+  string lidbc = 12;
+  string races = 13;
+  string efforts = 14;
+  string image = 15;
+  string lrace_id = 16;
+  string race_id = 17;
+  string ridc = 18;
+  string ridbd = 19;
+  string ridbc = 20;
+  string lrace_title = 21;
+}
+
+message GetTeamRidersRequest {
+  // ZP_VARS.team_id
+  string id = 1;
+}
+
+message Rider {
+  string name = 1;
+  // "div": 10,
+  // "divw": 0,
+  // "flag": "pt",
+  // "r": "28",
+  // "ftp": [
+  //     "349",
+  //     0
+  // ],
+  // "aid": "",
+  // "age": 0,
+  // "zada": 0,
+  // "w": [
+  //     0,
+  //     0
+  // ],
+  // "rank": "137.71",
+  // "skill": 8694,
+  // "distance": 3131958,
+  // "climbed": 40995,
+  // "energy": 21631,
+  // "time": 5613,
+  // "skill_race": 2774,
+  // "skill_seg": 2728,
+  // "skill_power": 3192,
+  // "zwid": 1944252,
+  // "status": "",
+  // "reg": 1,
+  // "email": "",
+  // "h_1200_watts": "363",
+  // "h_1200_wkg": "4.9",
+  // "h_15_watts": "1,054",
+  // "h_15_wkg": "14.4"
+}
+
+message GetTeamRidersResponse {
+  repeated Rider riders = 1 [json_name = "data"];
+}
+
+message ListActivitiesRequest {}
+message ListActivitiesResponse {
+  repeated Activity activities = 1 [json_name = "data"];
+}
+
+message Activity {
+  int32 date = 1;
+  string zaid = 2;
+  string title = 3;
+  string zid = 4;
+  // google.protobuf.Any elapsed = 5;
+  int32 distance = 6;
+  string world_id = 7;
+  string sport = 8;
+  // Network location of the fit file
+  string fit = 9;
+  string aid = 10;
+  int32 avg_speed = 11;
+  // google.protobuf.Any avg_hr = 12;
+  // google.protobuf.Any max_hr = 13;
+  // google.protobuf.Any avg_cadence = 14;
+  int32 calories = 15;
+  // google.protobuf.Any avg_power = 16;
+  int32 elevation = 17;
+  int32 zeid = 18;
+}
+
+message Event {
+  string zid = 1;
+  string name = 2 [json_name = "t"];
+}
+message ListEventsRequest {}
+message ListEventsResponse {
+  repeated Event events = 1 [json_name = "data"];
+}

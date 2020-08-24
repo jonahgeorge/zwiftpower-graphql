@@ -1,0 +1,1299 @@
+{
+  "data": [
+    {
+      "date": 1502188825,
+      "zaid": "9173178",
+      "title": "Zwift - London",
+      "zid": "",
+      "elapsed": [
+        3939,
+        0
+      ],
+      "distance": 34965,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/49/1038b530-9173178",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        0,
+        0
+      ],
+      "max_hr": [
+        0,
+        0
+      ],
+      "avg_cadence": [
+        87,
+        0
+      ],
+      "calories": 741,
+      "avg_power": [
+        199,
+        0
+      ],
+      "elevation": 534,
+      "zeid": 0
+    },
+    {
+      "date": 1502269422,
+      "zaid": "9191624",
+      "title": "Zwift - Richmond - sufferfest",
+      "zid": "",
+      "elapsed": [
+        5505,
+        0
+      ],
+      "distance": 55262,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/49/ca7df182-9191624",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        0,
+        0
+      ],
+      "max_hr": [
+        0,
+        0
+      ],
+      "avg_cadence": [
+        93,
+        0
+      ],
+      "calories": 1128,
+      "avg_power": [
+        218,
+        0
+      ],
+      "elevation": 312,
+      "zeid": 0
+    },
+    {
+      "date": 1502961976,
+      "zaid": "9321107",
+      "title": "Zwift - Watopia - 5 min power",
+      "zid": "",
+      "elapsed": [
+        6732,
+        0
+      ],
+      "distance": 64522,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/49/48be7a60-9321107",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        0,
+        0
+      ],
+      "max_hr": [
+        0,
+        0
+      ],
+      "avg_cadence": [
+        91,
+        0
+      ],
+      "calories": 1388,
+      "avg_power": [
+        217,
+        0
+      ],
+      "elevation": 738,
+      "zeid": 0
+    },
+    {
+      "date": 1503111654,
+      "zaid": "9350223",
+      "title": "Zwift - Watopia - sufferfest",
+      "zid": "",
+      "elapsed": [
+        8477,
+        0
+      ],
+      "distance": 75023,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/49/f5394a9d-9350223",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        0,
+        0
+      ],
+      "max_hr": [
+        0,
+        0
+      ],
+      "avg_cadence": [
+        92,
+        0
+      ],
+      "calories": 1646,
+      "avg_power": [
+        210,
+        0
+      ],
+      "elevation": 1139,
+      "zeid": 0
+    },
+    {
+      "date": 1519341008,
+      "zaid": "17820604",
+      "title": "Zwift Run - Group Run 10k (B)",
+      "zid": "",
+      "elapsed": [
+        3035,
+        0
+      ],
+      "distance": 10162,
+      "world_id": "",
+      "sport": "RUNNING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/1164d3d1-17820604",
+      "aid": "",
+      "avg_speed": 3,
+      "avg_hr": [
+        0,
+        0
+      ],
+      "max_hr": [
+        0,
+        0
+      ],
+      "avg_cadence": [
+        151,
+        0
+      ],
+      "calories": 750,
+      "avg_power": [
+        0,
+        0
+      ],
+      "elevation": 0,
+      "zeid": 0
+    },
+    {
+      "date": 1519429680,
+      "zaid": "17879334",
+      "title": "Zwift Run - Watopia 10 in 10 finisher run",
+      "zid": "",
+      "elapsed": [
+        1539,
+        0
+      ],
+      "distance": 3280,
+      "world_id": "",
+      "sport": "RUNNING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/cbe5c49a-17879334",
+      "aid": "",
+      "avg_speed": 3,
+      "avg_hr": [
+        122,
+        0
+      ],
+      "max_hr": [
+        134,
+        0
+      ],
+      "avg_cadence": [
+        154,
+        0
+      ],
+      "calories": 243,
+      "avg_power": [
+        0,
+        0
+      ],
+      "elevation": 0,
+      "zeid": 0
+    },
+    {
+      "date": 1519708816,
+      "zaid": "18089949",
+      "title": "Musta ate the weak sauce, meant to grab the hot sauce",
+      "zid": "",
+      "elapsed": [
+        2764,
+        0
+      ],
+      "distance": 24086,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/af31a752-18089949",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        126,
+        0
+      ],
+      "max_hr": [
+        158,
+        0
+      ],
+      "avg_cadence": [
+        90,
+        0
+      ],
+      "calories": 557,
+      "avg_power": [
+        240,
+        0
+      ],
+      "elevation": 98,
+      "zeid": 0
+    },
+    {
+      "date": 1519762578,
+      "zaid": "18144167",
+      "title": "Watts up London! ",
+      "zid": "",
+      "elapsed": [
+        3907,
+        0
+      ],
+      "distance": 36315,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/7de5e73b-18144167",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        136,
+        0
+      ],
+      "max_hr": [
+        148,
+        0
+      ],
+      "avg_cadence": [
+        89,
+        0
+      ],
+      "calories": 824,
+      "avg_power": [
+        238,
+        0
+      ],
+      "elevation": 190,
+      "zeid": 0
+    },
+    {
+      "date": 1519875191,
+      "zaid": "18238260",
+      "title": "Zwift Run - London",
+      "zid": "",
+      "elapsed": [
+        1464,
+        0
+      ],
+      "distance": 5037,
+      "world_id": "",
+      "sport": "RUNNING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/f3741d77-18238260",
+      "aid": "",
+      "avg_speed": 3,
+      "avg_hr": [
+        135,
+        0
+      ],
+      "max_hr": [
+        146,
+        0
+      ],
+      "avg_cadence": [
+        77,
+        0
+      ],
+      "calories": 374,
+      "avg_power": [
+        261,
+        0
+      ],
+      "elevation": 50,
+      "zeid": 0
+    },
+    {
+      "date": 1519916755,
+      "zaid": "18264235",
+      "title": "Zwift - WBR 4 Lap Flat RACE #pst B",
+      "zid": "",
+      "elapsed": [
+        3813,
+        0
+      ],
+      "distance": 42665,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/6e69da40-18264235",
+      "aid": "",
+      "avg_speed": 12,
+      "avg_hr": [
+        142,
+        0
+      ],
+      "max_hr": [
+        166,
+        0
+      ],
+      "avg_cadence": [
+        96,
+        0
+      ],
+      "calories": 993,
+      "avg_power": [
+        271,
+        0
+      ],
+      "elevation": 128,
+      "zeid": 0
+    },
+    {
+      "date": 1520019574,
+      "zaid": "18356556",
+      "title": "Zwift - 03/02/2018",
+      "zid": "",
+      "elapsed": [
+        995,
+        0
+      ],
+      "distance": 1970,
+      "world_id": "",
+      "sport": "RUNNING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/0182461b-18356556",
+      "aid": "",
+      "avg_speed": 3,
+      "avg_hr": [
+        0,
+        0
+      ],
+      "max_hr": [
+        0,
+        0
+      ],
+      "avg_cadence": [
+        0,
+        0
+      ],
+      "calories": 146,
+      "avg_power": [
+        0,
+        0
+      ],
+      "elevation": 0,
+      "zeid": 0
+    },
+    {
+      "date": 1520107230,
+      "zaid": "18435117",
+      "title": "Zwift - AHDR PretzHELL Ride Skooled by the SW!!",
+      "zid": "",
+      "elapsed": [
+        8339,
+        0
+      ],
+      "distance": 73842,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/819ca2eb-18435117",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        138,
+        0
+      ],
+      "max_hr": [
+        171,
+        0
+      ],
+      "avg_cadence": [
+        83,
+        0
+      ],
+      "calories": 1991,
+      "avg_power": [
+        266,
+        0
+      ],
+      "elevation": 1365,
+      "zeid": 0
+    },
+    {
+      "date": 1520476265,
+      "zaid": "18725158",
+      "title": "No Comment",
+      "zid": "",
+      "elapsed": [
+        3394,
+        0
+      ],
+      "distance": 35081,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/bc01a2ba-18725158",
+      "aid": "",
+      "avg_speed": 11,
+      "avg_hr": [
+        150,
+        0
+      ],
+      "max_hr": [
+        162,
+        0
+      ],
+      "avg_cadence": [
+        88,
+        0
+      ],
+      "calories": 1069,
+      "avg_power": [
+        330,
+        1
+      ],
+      "elevation": 372,
+      "zeid": 0
+    },
+    {
+      "date": 1520562646,
+      "zaid": "18793884",
+      "title": "Anothr Gruntr",
+      "zid": "",
+      "elapsed": [
+        3645,
+        0
+      ],
+      "distance": 36326,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/85/83068b22-18793884",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        146,
+        0
+      ],
+      "max_hr": [
+        220,
+        1
+      ],
+      "avg_cadence": [
+        83,
+        0
+      ],
+      "calories": 954,
+      "avg_power": [
+        271,
+        0
+      ],
+      "elevation": 435,
+      "zeid": 0
+    },
+    {
+      "date": 1520687702,
+      "zaid": "18867251",
+      "title": "Zwift - Endurance Lab SST 3053",
+      "zid": "",
+      "elapsed": [
+        3935,
+        0
+      ],
+      "distance": 35762,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/20/d15ca17d-18867251",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        130,
+        0
+      ],
+      "max_hr": [
+        171,
+        0
+      ],
+      "avg_cadence": [
+        81,
+        0
+      ],
+      "calories": 668,
+      "avg_power": [
+        171,
+        0
+      ],
+      "elevation": 444,
+      "zeid": 0
+    },
+    {
+      "date": 1520692475,
+      "zaid": "18872619",
+      "title": "Partial EL SST 3053, Coffee Ride, and Run",
+      "zid": "",
+      "elapsed": [
+        2039,
+        0
+      ],
+      "distance": 5844,
+      "world_id": "",
+      "sport": "RUNNING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/20/502bcbc1-18872619",
+      "aid": "",
+      "avg_speed": 3,
+      "avg_hr": [
+        128,
+        0
+      ],
+      "max_hr": [
+        146,
+        0
+      ],
+      "avg_cadence": [
+        155,
+        1
+      ],
+      "calories": 301,
+      "avg_power": [
+        0,
+        0
+      ],
+      "elevation": 0,
+      "zeid": 0
+    },
+    {
+      "date": 1522583281,
+      "zaid": "20156944",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        6171,
+        0
+      ],
+      "distance": 55960,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/84/02d135f0-20156944",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        115,
+        0
+      ],
+      "max_hr": [
+        162,
+        0
+      ],
+      "avg_cadence": [
+        75,
+        0
+      ],
+      "calories": 1030,
+      "avg_power": [
+        180,
+        0
+      ],
+      "elevation": 423,
+      "zeid": 0
+    },
+    {
+      "date": 1522753588,
+      "zaid": "20266521",
+      "title": "Zwift - 2018 OS Run Lvl3 - Wk13 Tue",
+      "zid": "",
+      "elapsed": [
+        5054,
+        0
+      ],
+      "distance": 19913,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/84/3a56fe21-20266521",
+      "aid": "",
+      "avg_speed": 4,
+      "avg_hr": [
+        129,
+        0
+      ],
+      "max_hr": [
+        160,
+        0
+      ],
+      "avg_cadence": [
+        65,
+        0
+      ],
+      "calories": 980,
+      "avg_power": [
+        203,
+        0
+      ],
+      "elevation": 1141,
+      "zeid": 0
+    },
+    {
+      "date": 1522939767,
+      "zaid": "20406385",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        731,
+        0
+      ],
+      "distance": 5694,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/84/5d64d0e6-20406385",
+      "aid": "",
+      "avg_speed": 8,
+      "avg_hr": [
+        102,
+        0
+      ],
+      "max_hr": [
+        123,
+        0
+      ],
+      "avg_cadence": [
+        77,
+        0
+      ],
+      "calories": 102,
+      "avg_power": [
+        146,
+        0
+      ],
+      "elevation": 48,
+      "zeid": 0
+    },
+    {
+      "date": 1522940760,
+      "zaid": "20406901",
+      "title": "Zwift - WBR 3 Volcano Flat Lap Race",
+      "zid": "",
+      "elapsed": [
+        3339,
+        0
+      ],
+      "distance": 38715,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/84/79cbc4d7-20406901",
+      "aid": "",
+      "avg_speed": 12,
+      "avg_hr": [
+        154,
+        1
+      ],
+      "max_hr": [
+        166,
+        0
+      ],
+      "avg_cadence": [
+        73,
+        0
+      ],
+      "calories": 893,
+      "avg_power": [
+        268,
+        0
+      ],
+      "elevation": 154,
+      "zeid": 0
+    },
+    {
+      "date": 1523188362,
+      "zaid": "20542583",
+      "title": "Zwift - London",
+      "zid": "",
+      "elapsed": [
+        9218,
+        1
+      ],
+      "distance": 86321,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/84/cac7823e-20542583",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        121,
+        0
+      ],
+      "max_hr": [
+        162,
+        0
+      ],
+      "avg_cadence": [
+        78,
+        0
+      ],
+      "calories": 1591,
+      "avg_power": [
+        185,
+        0
+      ],
+      "elevation": 584,
+      "zeid": 0
+    },
+    {
+      "date": 1532036782,
+      "zaid": "23702446",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        811,
+        0
+      ],
+      "distance": 6190,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/e3085ce7-23702446",
+      "aid": "",
+      "avg_speed": 8,
+      "avg_hr": [
+        95,
+        0
+      ],
+      "max_hr": [
+        117,
+        0
+      ],
+      "avg_cadence": [
+        80,
+        0
+      ],
+      "calories": 101,
+      "avg_power": [
+        125,
+        0
+      ],
+      "elevation": 26,
+      "zeid": 0
+    },
+    {
+      "date": 1532037658,
+      "zaid": "23702795",
+      "title": "Zwift - SIS Tour de Oz - Stage 6",
+      "zid": "",
+      "elapsed": [
+        6336,
+        0
+      ],
+      "distance": 42044,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/a2ba6abe-23702795",
+      "aid": "",
+      "avg_speed": 7,
+      "avg_hr": [
+        135,
+        0
+      ],
+      "max_hr": [
+        155,
+        0
+      ],
+      "avg_cadence": [
+        78,
+        0
+      ],
+      "calories": 1368,
+      "avg_power": [
+        228,
+        0
+      ],
+      "elevation": 1223,
+      "zeid": 0
+    },
+    {
+      "date": 1532079809,
+      "zaid": "23713217",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        2965,
+        0
+      ],
+      "distance": 25027,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/f0806815-23713217",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        111,
+        0
+      ],
+      "max_hr": [
+        134,
+        0
+      ],
+      "avg_cadence": [
+        82,
+        0
+      ],
+      "calories": 452,
+      "avg_power": [
+        162,
+        0
+      ],
+      "elevation": 101,
+      "zeid": 0
+    },
+    {
+      "date": 1532340538,
+      "zaid": "23785492",
+      "title": "Zwift - Richmond",
+      "zid": "",
+      "elapsed": [
+        4001,
+        0
+      ],
+      "distance": 40532,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/4065a3ec-23785492",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        129,
+        0
+      ],
+      "max_hr": [
+        154,
+        0
+      ],
+      "avg_cadence": [
+        79,
+        0
+      ],
+      "calories": 794,
+      "avg_power": [
+        208,
+        0
+      ],
+      "elevation": 99,
+      "zeid": 0
+    },
+    {
+      "date": 1532426614,
+      "zaid": "23814340",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        4084,
+        0
+      ],
+      "distance": 37914,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/58bf3c6c-23814340",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        124,
+        0
+      ],
+      "max_hr": [
+        163,
+        0
+      ],
+      "avg_cadence": [
+        77,
+        0
+      ],
+      "calories": 752,
+      "avg_power": [
+        197,
+        0
+      ],
+      "elevation": 202,
+      "zeid": 0
+    },
+    {
+      "date": 1533074076,
+      "zaid": "24027732",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        296,
+        0
+      ],
+      "distance": 2454,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/26b62710-24027732",
+      "aid": "",
+      "avg_speed": 8,
+      "avg_hr": [
+        81,
+        0
+      ],
+      "max_hr": [
+        103,
+        0
+      ],
+      "avg_cadence": [
+        78,
+        0
+      ],
+      "calories": 37,
+      "avg_power": [
+        129,
+        0
+      ],
+      "elevation": 2,
+      "zeid": 0
+    },
+    {
+      "date": 1533074428,
+      "zaid": "24027908",
+      "title": "Zwift - SIS Tour de Oz - Stage 1",
+      "zid": "",
+      "elapsed": [
+        4255,
+        0
+      ],
+      "distance": 42677,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/15a8854d-24027908",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        136,
+        0
+      ],
+      "max_hr": [
+        166,
+        0
+      ],
+      "avg_cadence": [
+        78,
+        0
+      ],
+      "calories": 925,
+      "avg_power": [
+        226,
+        0
+      ],
+      "elevation": 326,
+      "zeid": 0
+    },
+    {
+      "date": 1533160358,
+      "zaid": "24059280",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        5121,
+        0
+      ],
+      "distance": 50869,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/2d7ab933-24059280",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        132,
+        0
+      ],
+      "max_hr": [
+        161,
+        0
+      ],
+      "avg_cadence": [
+        76,
+        0
+      ],
+      "calories": 1055,
+      "avg_power": [
+        214,
+        0
+      ],
+      "elevation": 204,
+      "zeid": 0
+    },
+    {
+      "date": 1533244066,
+      "zaid": "24090272",
+      "title": "Zwift - Innsbruck",
+      "zid": "",
+      "elapsed": [
+        3251,
+        0
+      ],
+      "distance": 26890,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/0dfcfc5d-24090272",
+      "aid": "",
+      "avg_speed": 8,
+      "avg_hr": [
+        126,
+        0
+      ],
+      "max_hr": [
+        156,
+        0
+      ],
+      "avg_cadence": [
+        74,
+        0
+      ],
+      "calories": 573,
+      "avg_power": [
+        186,
+        0
+      ],
+      "elevation": 222,
+      "zeid": 0
+    },
+    {
+      "date": 1533384613,
+      "zaid": "24131563",
+      "title": "Zwift - Innsbruck",
+      "zid": "",
+      "elapsed": [
+        465,
+        0
+      ],
+      "distance": 3738,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/2c44485f-24131563",
+      "aid": "",
+      "avg_speed": 8,
+      "avg_hr": [
+        110,
+        0
+      ],
+      "max_hr": [
+        128,
+        0
+      ],
+      "avg_cadence": [
+        80,
+        0
+      ],
+      "calories": 75,
+      "avg_power": [
+        167,
+        0
+      ],
+      "elevation": 30,
+      "zeid": 0
+    },
+    {
+      "date": 1533385159,
+      "zaid": "24131727",
+      "title": "Zwift - ODZ Goats & Bears",
+      "zid": "",
+      "elapsed": [
+        4922,
+        0
+      ],
+      "distance": 36371,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/6d8efe1e-24131727",
+      "aid": "",
+      "avg_speed": 7,
+      "avg_hr": [
+        146,
+        0
+      ],
+      "max_hr": [
+        168,
+        0
+      ],
+      "avg_cadence": [
+        77,
+        0
+      ],
+      "calories": 1106,
+      "avg_power": [
+        233,
+        0
+      ],
+      "elevation": 860,
+      "zeid": 0
+    },
+    {
+      "date": 1533466808,
+      "zaid": "24154280",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        7552,
+        0
+      ],
+      "distance": 70308,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/11f443b3-24154280",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        120,
+        0
+      ],
+      "max_hr": [
+        158,
+        0
+      ],
+      "avg_cadence": [
+        77,
+        0
+      ],
+      "calories": 1387,
+      "avg_power": [
+        192,
+        0
+      ],
+      "elevation": 357,
+      "zeid": 0
+    },
+    {
+      "date": 1533681943,
+      "zaid": "24229000",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        3975,
+        0
+      ],
+      "distance": 40307,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/66a335f5-24229000",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        129,
+        0
+      ],
+      "max_hr": [
+        160,
+        0
+      ],
+      "avg_cadence": [
+        79,
+        0
+      ],
+      "calories": 830,
+      "avg_power": [
+        218,
+        0
+      ],
+      "elevation": 155,
+      "zeid": 0
+    },
+    {
+      "date": 1533766228,
+      "zaid": "24263256",
+      "title": "Zwift - Watopia",
+      "zid": "",
+      "elapsed": [
+        3840,
+        0
+      ],
+      "distance": 37078,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/eb09d0fe-24263256",
+      "aid": "",
+      "avg_speed": 10,
+      "avg_hr": [
+        128,
+        0
+      ],
+      "max_hr": [
+        154,
+        0
+      ],
+      "avg_cadence": [
+        80,
+        0
+      ],
+      "calories": 793,
+      "avg_power": [
+        217,
+        0
+      ],
+      "elevation": 235,
+      "zeid": 0
+    },
+    {
+      "date": 1533850526,
+      "zaid": "24297411",
+      "title": "Zwift - Innsbruck",
+      "zid": "",
+      "elapsed": [
+        4524,
+        0
+      ],
+      "distance": 41377,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/ae42e2d9-24297411",
+      "aid": "",
+      "avg_speed": 9,
+      "avg_hr": [
+        124,
+        0
+      ],
+      "max_hr": [
+        158,
+        0
+      ],
+      "avg_cadence": [
+        78,
+        0
+      ],
+      "calories": 890,
+      "avg_power": [
+        204,
+        0
+      ],
+      "elevation": 356,
+      "zeid": 0
+    },
+    {
+      "date": 1534004363,
+      "zaid": "24349829",
+      "title": "Zwift - Innsbruck",
+      "zid": "",
+      "elapsed": [
+        5553,
+        0
+      ],
+      "distance": 42958,
+      "world_id": "",
+      "sport": "CYCLING",
+      "fit": "https://s3-fit-prd-uswest2-zwift.s3.amazonaws.com/prod/29/53f64138-24349829",
+      "aid": "",
+      "avg_speed": 8,
+      "avg_hr": [
+        131,
+        0
+      ],
+      "max_hr": [
+        165,
+        0
+      ],
+      "avg_cadence": [
+        73,
+        0
+      ],
+      "calories": 1017,
+      "avg_power": [
+        191,
+        0
+      ],
+      "elevation": 585,
+      "zeid": 0
+    }
+  ]
+}
